@@ -1,0 +1,7 @@
+# Structure for env file, just so we are on the same page
+TOKEN - bot token
+TESTING - whether or not you are in testing mode, you should probably keep this true 
+TEST_TOKEN - preferably bot token that is unique to you
+TEST_PREFIX - something unique so that you dont trigger anyone else's bot 
+USER - db user 
+PASS - db pass 

@@ -4,7 +4,8 @@
   "description": "A MongoDB database with a user-facing discord bot that provides read/write access.",
   "main": "bot.ts",
   "scripts": {
-    "test": "npx ts-node-dev --respawn bot.ts"
+    "test": "npx ts-node-dev --respawn bot.ts",
+    "postinstall": "tsc"
   },
   "repository": {
     "type": "git",
